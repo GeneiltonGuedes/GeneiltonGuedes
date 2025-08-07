@@ -23,7 +23,7 @@ Olá! Sou o Geneilton, em transição de carreira para a área de tecnologia, at
 ### 🧠 Interesses
 
 - Cibersegurança ofensiva e defensiva  
-- Desenvolvimento   
+- Desenvolvimento  
 - Cloud Computing (Azure)  
 - Automação com Python  
 
@@ -31,17 +31,15 @@ Olá! Sou o Geneilton, em transição de carreira para a área de tecnologia, at
 
 ### 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img 
-    align="left" 
     alt="Geneilton GitHub Stats" 
-    height="180em" 
+    width="49%" 
     src="https://github-readme-stats.vercel.app/api?username=GeneiltonGuedes&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
   <img 
-    align="left" 
     alt="Top Langs" 
-    height="180em" 
+    width="49%" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneiltonGuedes&layout=compact&theme=tokyonight" 
   />
 </p>
@@ -57,4 +55,3 @@ Olá! Sou o Geneilton, em transição de carreira para a área de tecnologia, at
 📞 Telefone: (81) 9.8986-6613
 
 ---
-
