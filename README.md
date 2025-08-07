@@ -20,7 +20,6 @@ Olá! Sou o Geneilton, em transição de carreira para a área de tecnologia, at
 
 ---
 
-
 ### 🧠 Interesses
 
 - Cibersegurança ofensiva e defensiva  
@@ -47,8 +46,7 @@ Olá! Sou o Geneilton, em transição de carreira para a área de tecnologia, at
   />
 </p>
 
-<br/>
-<br/>
+<br clear="both"/>
 
 ---
 
@@ -59,3 +57,4 @@ Olá! Sou o Geneilton, em transição de carreira para a área de tecnologia, at
 📞 Telefone: (81) 9.8986-6613
 
 ---
+
