@@ -1,6 +1,6 @@
 # 👨‍💻 Geneilton Guedes
 
-**`Estudante de ADS | Entusiasta em Cibersegurança e Infraestrutura`**
+**`Estudante de ADS | Entusiasta em Cibersegurança`**
 
 Olá! Sou o Geneilton, em transição de carreira para a área de tecnologia, atualmente cursando **Análise e Desenvolvimento de Sistemas**. Tenho experiência prática com **suporte técnico, redes e infraestrutura**, e venho estudando com afinco **desenvolvimento web** e **cibersegurança**. Sou movido por curiosidade, aprendizado constante e vontade de contribuir com soluções inteligentes.
 
@@ -20,21 +20,11 @@ Olá! Sou o Geneilton, em transição de carreira para a área de tecnologia, at
 
 ---
 
-### 📜 Certificações
-
-- 🎓 Microsoft AZ-900 – *Azure Fundamentals*
-- 🔐 Cisco – *Introduction to Cybersecurity*
-- 🧠 CIS Controls 1-18 – *Boas práticas em segurança*
-- 🧰 Fundamentos de Ethical Hacking
-- 🖥️ Montagem e Manutenção de Micros
-
----
 
 ### 🧠 Interesses
 
 - Cibersegurança ofensiva e defensiva  
-- Desenvolvimento Web  
-- Infraestrutura de Redes  
+- Desenvolvimento   
 - Cloud Computing (Azure)  
 - Automação com Python  
 
