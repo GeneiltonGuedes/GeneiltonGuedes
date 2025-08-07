@@ -47,13 +47,13 @@ Olá! Sou o Geneilton, em transição de carreira para a área de tecnologia, at
     align="left" 
     alt="Geneilton GitHub Stats" 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=GeneiltonGuede&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
   <img 
     align="left" 
     alt="Top Langs" 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneiltonGuedes&layout=compact&theme=tokyonight" 
   />
 </p>
 
