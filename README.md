@@ -37,7 +37,7 @@ Olá! Sou o Geneilton, em transição de carreira para a área de tecnologia, at
     align="left" 
     alt="Geneilton GitHub Stats" 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=GeneiltonGuede&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=GeneiltonGuedes&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
   <img 
     align="left" 
