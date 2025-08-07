@@ -39,7 +39,7 @@ Olá! Sou o Geneilton, em transição de carreira para a área de tecnologia, at
   />
   <img 
     alt="Top Langs" 
-    width="42%" 
+    width="43%" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneiltonGuedes&layout=compact&theme=tokyonight" 
   />
 </p>
