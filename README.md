@@ -14,13 +14,11 @@ Olá! Sou o Geneilton, em transição de carreira para a área de tecnologia, at
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Kali Linux" title="Kali Linux" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kali_Linux_Logo.svg" />
-<img align="left" alt="Kali Linux" title="Kali Linux" width="30px" style="padding-right: 10px;" src="./assets/kali.png" />
-<img align="left" alt="Wazuh" title="Wazuh" width="30px" style="padding-right: 10px;" src="./assets/wazuh.png" />
-
+<img align="left" alt="VSCode" title="VSCode" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Azure" title="Azure" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <br/>
 <br/>
+
 ---
 
 ### 🧠 Interesses
